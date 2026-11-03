@@ -6,8 +6,8 @@ API REST desarrollada en **Node.js**, **Express** y **MongoDB (Mongoose)** que r
 
 1. Clonar el repositorio e instalar las dependencias:
    ```bash
-   git clone https://github.com/<tu-usuario>/<tu-repositorio>.git
-   cd <tu-repositorio>
+   git clone https://github.com/Iorsh07/proyecto-ing-software.git
+   cd proyecto-ing-software.git
    npm install
    ```
 
